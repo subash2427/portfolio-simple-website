@@ -25,7 +25,7 @@ To serve as a base for future improvements (adding projects, animations, or Java
 # How to view
 🔗 Check it out here:
 
- 🔗Github Repository link:
+ 🔗Github Repository link: https://subash2427.github.io/portfolio-simple-website/
 
  Thank you for visiting my portfolio website!
 
