@@ -23,7 +23,7 @@ To create a basic but personal online presence
 To serve as a base for future improvements (adding projects, animations, or JavaScript)
 
 # How to view
-🔗 Check it out here:
+🔗 Check it out here: https://subash2427.github.io/portfolio-simple-website/index.html
 
  🔗Github Repository link: https://subash2427.github.io/portfolio-simple-website/
 
