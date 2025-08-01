@@ -23,7 +23,9 @@ To create a basic but personal online presence
 To serve as a base for future improvements (adding projects, animations, or JavaScript)
 
 # How to view
-You can access my portfolio website by visiting [link] Feel free to explore the content and get in touch !
+🔗 Check it out here:
+
+ 🔗Github Repository link:
 
  Thank you for visiting my portfolio website!
 
